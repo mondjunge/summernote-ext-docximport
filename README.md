@@ -1,11 +1,18 @@
 # summernote-ext-docximport
-✅ imports docx to summernote editor
+✅ Imports docx to summernote editor
 
 ## Install
-* drop in summernote/plugin
-* include in html or require or import or whatever your brew of coding tools is
-* !important: also include mammoth.js from Michael Williamson (https://github.com/mwilliamson/mammoth.js)!
+* Drop in summernote/plugin
+* Include in html or require or import or annotate whatever your brew of coding tools is.
+* Include mammoth.browser.js or mammoth.browser.min.js from Michael Williamson (https://github.com/mwilliamson/mammoth.js), included in this repo.! 
 
 ## Configure Summernote
-* in summernote you should add 'docximport' to your toolbar or you have no button. 
+* In summernote you should add 'docximport' to your toolbar or you have no button. 
 * Use 'docximport' in icons to set a custom icon.
+
+## Usage
+* Click Button
+* Select a docx file
+* See far more better conversion of Word elements to HTML than simply copy and pasting from docx to summernote.
+
+May the --force be with you.
