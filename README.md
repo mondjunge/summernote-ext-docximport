@@ -4,7 +4,7 @@
 ## Install
 * Drop in summernote/plugin
 * Include in html or require or import or annotate whatever your brew of coding tools is.
-* Include mammoth.browser.js or mammoth.browser.min.js from Michael Williamson (https://github.com/mwilliamson/mammoth.js), included in this repo.! 
+* Drop and include mammoth.browser.js or mammoth.browser.min.js from Michael Williamson (https://github.com/mwilliamson/mammoth.js), included in this repo.! 
 
 ## Configure Summernote
 * In summernote you should add 'docximport' to your toolbar or you have no button. 
